@@ -1,5 +1,5 @@
 Major Java 8 Features Introduced
->Lamda expression : Concise functional code using ->
+>Lambda expression : Concise functional code using ->
 >Functional Interface : Single-method interface
 >Introduced and improved APIs:
     > Stream API: Efficient Data Manipulation
@@ -12,7 +12,7 @@ Major Java 8 Features Introduced
     > Static Method : Allows adding methods with default implementations to interfaces.
     > Default Method : Evolve interface without breaking compatibility
 
-Lamda expression : It is basically expresses an instance of the functional interface,
+Lambda expression : It is basically expresses an instance of the functional interface,
 
 
 
