@@ -14,6 +14,8 @@ Major Java 8 Features Introduced
 
 Lambda expression : It is basically expresses an instance of the functional interface,
 
+This pull request to check teams notification.
+
 
 
 
